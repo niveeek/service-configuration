@@ -1,0 +1,9 @@
+
+S
+#product-microservice-dev.properties,9\e\9ea54fa4f6e68639da94c257f08fe8bb31bd9b9b
+S
+#product-microservice-prd.properties,7\9\79c818dcc13e532998f5b8502a523ed52ccd404e
+S
+#booking-microservice-dev.properties,5\6\56ccd04bfece65e0934da6ef0d2ae1a27c61d50c
+S
+#booking-microservice-prd.properties,9\4\94feab88175575b11834bdfdba794c7bdaed4475
