@@ -15,3 +15,5 @@ S
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
 I
 booking-microservice.json,7\4\74b4a1504e1ddbd2f240552e32d0ae6844618501
+I
+product-microservice.json,7\d\7dd0051ccabd6c9557aed1e6daafaa368d447659
