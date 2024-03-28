@@ -8,3 +8,4 @@
 /dataSources.local.xml
 *.json# GitHub Copilot persisted chat sessions
 /copilot/chatSessions
+*.json
